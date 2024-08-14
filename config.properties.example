@@ -1,0 +1,8 @@
+
+clientId=miClientId
+clientSecret=miClientesecret
+serverAddress=150.10.50.7:9091
+secretKeyJwt=muysecretokenjwt
+userAccessApi=usuarioAccesoApi
+timeExpireToken=5
+maxFileSize7z=10485760
